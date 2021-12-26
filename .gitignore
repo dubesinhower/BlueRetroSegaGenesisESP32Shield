@@ -23,3 +23,6 @@ _autosave-*
 # Exported BOM files
 *.xml
 *.csv
+
+#Ignore local backups
+BlueRetro Genesis ESP32 Shield-backups/
